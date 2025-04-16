@@ -43,7 +43,7 @@
 - 💈 [Sistema de Agendamento para Barbearia](https://github.com/gusleal098/barbershop-interface)  
   Sistema completo com painel de admin, controle de horários e filtros de serviços.
 
-- 🍔 [Aplicativo de Delivery](https://github.com/gusleal098/delivery-interface)  
+- 🍔 [Sistema de Delivery](https://github.com/gusleal098/delivery-interface)  
   Aplicativo com carrinho de compras e integração com WhatsApp para pedidos.
 
 - 🧼 [App Lava Jato Delivery](https://github.com/gusleal098/lava-jato)  
