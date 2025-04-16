@@ -1,6 +1,6 @@
 ### Hi there :sunglasses:
 
-Eu sou o Gustavo Leal, sou programador Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou o Gustavo Leal, sou Desenvolvedor Web Full-Stack, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 
