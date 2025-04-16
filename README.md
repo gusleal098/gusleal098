@@ -40,22 +40,22 @@
 
 ### 💼 Projetos em destaque
 
-- 💈 [Sistema de Agendamento para Barbearia](https://github.com/gusleal098/nome-do-repo)  
+- 💈 [Sistema de Agendamento para Barbearia](https://github.com/gusleal098/barbershop-interface)  
   Sistema completo com painel de admin, controle de horários e filtros de serviços.
 
-- 🍔 [Aplicativo de Delivery](https://github.com/gusleal098/nome-do-repo)  
+- 🍔 [Aplicativo de Delivery](https://github.com/gusleal098/delivery-interface)  
   Aplicativo com carrinho de compras e integração com WhatsApp para pedidos.
 
-- 🧼 [Lava Jato Delivery](https://github.com/gusleal098/nome-do-repo)  
+- 🧼 [App Lava Jato Delivery](https://github.com/gusleal098/lava-jato)  
   Cliente agenda horário e localização para receber atendimento na porta de casa.
 
 ---
 
 ### 🤝 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusleal.dev@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMERO)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-leal-carvalho/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoleal098@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521976982316)
 
 ---
 
