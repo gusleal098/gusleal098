@@ -8,7 +8,7 @@
 - 👨‍💻 Atualmente estou focado em projetos com **JavaScript, React e Node.js**
 - 📚 Em constante aprendizado e construção de soluções reais
 - 💼 Em busca da minha **primeira oportunidade como Desenvolvedor Júnior**
-- 📫 Como me encontrar: **gusleal.dev@gmail.com**
+- 📫 Como me encontrar: **gustavoleal098@gmail.com**
 
 ---
 
